@@ -1,4 +1,4 @@
-#✈️ Airline-complaint-category-tagging and sentiment analysis
+# Airline-complaint-category-tagging and sentiment analysis
 
 A deep learning project that classifies airline reviews into sentiment and category labels using BERT and GPU acceleration, reducing computational time by 93.33%.The project also includes web scraping to gather airline review data and a Flask web app for visualization.
 
