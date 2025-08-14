@@ -1,0 +1,16 @@
+IPython==8.27.0
+bs4==0.0.2
+import_ipynb==0.2
+ipynb==0.5.1
+joblib==1.4.2
+matplotlib==3.9.2
+nltk==3.9.1
+numpy==2.2.6
+pandas==2.2.2
+requests==2.32.4
+scikit-learn==1.5.1
+seaborn==0.13.2
+torch==2.6.0
+tqdm==4.66.5
+transformers==4.51.3
+xgboost==3.0.0
